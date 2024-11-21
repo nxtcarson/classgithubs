@@ -1,11 +1,12 @@
-- [MrPanther213](https://github.com/MrPanther213)
-- [C0rruptHe1ix7682](https://github.com/C0rruptHe1ix7682)
-- [NateLawrence-w](https://github.com/NateLawrence-w)
-- [Faten848](https://github.com/Faten848)
-- [Brant-100](https://github.com/Brant-100)
-- [richi2008-jag](https://github.com/richi2008-jag)
-- [nxtcarson](https://github.com/nxtcarson)
-- [DrRigB](https://github.com/DrRigB)
-- [STORM-MCCTC](https://github.com/STORM-MCCTC)
-- [Camanator563](https://github.com/Camanator563)
-- [ConnerF6](https://github.com/ConnerF6)
+- [MrPanther213](https://github.com/MrPanther213) - kurz
+- [C0rruptHe1ix7682](https://github.com/C0rruptHe1ix7682) - kaleb
+- [NateLawrence-w](https://github.com/NateLawrence-w) - wiseman
+- [Faten848](https://github.com/Faten848) - sonia
+- [Brant-100](https://github.com/Brant-100) - brant
+- [richi2008-jag](https://github.com/richi2008-jag) - richi
+- [nxtcarson](https://github.com/nxtcarson) - carson
+- [DrRigB](https://github.com/DrRigB) - rigdon
+- [STORM-MCCTC](https://github.com/STORM-MCCTC) - donnadio
+- [Camanator563](https://github.com/Camanator563) - cameron
+- [ConnerF6](https://github.com/ConnerF6) - farnsworth
+- [ANEyurr](https://github.com/ANEyurr) - alyssa
